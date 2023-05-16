@@ -1,4 +1,6 @@
-_site
+*~
+*.gem
+.bundle
 .sass-cache
-node_modules
-_drafts
+_site
+Gemfile.lock
